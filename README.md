@@ -1,6 +1,13 @@
 # Java DotCode Reader
 The two samples demonstrate how to decode DotCode using [Dynamsoft Barcode Reader SDK v7.4 for Java](https://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx).
 
+## Trial License
+Get a [valid license](https://www.dynamsoft.com/CustomerPortal/Portal/Triallicense.aspx) and update relevant code:
+
+```java
+mBarcodeReader = new BarcodeReader("LICENSE-KEY");
+```
+
 ## Usage
 
 - command-line
