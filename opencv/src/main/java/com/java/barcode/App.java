@@ -41,7 +41,7 @@ public class App extends JPanel implements ActionListener {
     // a flag to change the button behavior
     private boolean cameraActive = false;
     // the id of the camera to be used
-    private static int cameraId = 1;
+    private static int cameraId = 0;
     // Dynamsoft Barcode Reader
     private BarcodeReader mBarcodeReader;
     private ScheduledExecutorService barcodeTimer;
