@@ -33,3 +33,6 @@ mBarcodeReader = new BarcodeReader("LICENSE-KEY");
       ```
 
      ![Java DotCode Reader](http://www.codepool.biz/wp-content/uploads/2020/04/java-dotcode-reader.png)
+     
+ ## Blog
+ [How to Build DotCode Reader in Java on Windows 10](https://www.codepool.biz/java-dotcode-reader-webcam-opencv.html)
